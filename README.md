@@ -2,15 +2,15 @@
 
 A web-based application for generating and managing GST-compliant invoices for small businesses.
 
-## 🚧 Project Status
+## roject Status
 
 In Development
 
-## 📌 Overview
+##  Overview
 
 The GST Invoice Generator is designed to simplify the process of creating GST invoices by automatically calculating taxes and generating structured invoice records.
 
-## ✨ Planned Features
+##  Planned Features
 
 - Create and manage invoices
 - Add customer and business details
@@ -23,7 +23,7 @@ The GST Invoice Generator is designed to simplify the process of creating GST in
 - Printable invoice
 - SQLite database integration
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - Python
 - Flask
@@ -32,7 +32,7 @@ The GST Invoice Generator is designed to simplify the process of creating GST in
 - CSS
 - JavaScript
 
-## 📂 Current Progress
+## Current Progress
 
 - [x] Project repository created
 - [x] Initial project documentation
@@ -44,7 +44,7 @@ The GST Invoice Generator is designed to simplify the process of creating GST in
 - [ ] Invoice history
 - [ ] UI improvements
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - PDF invoice generation
 - User authentication
@@ -54,4 +54,4 @@ The GST Invoice Generator is designed to simplify the process of creating GST in
 
 ---
 
-**Status:** 🚧 Under Active Development
+**Status:**  Under Active Development
