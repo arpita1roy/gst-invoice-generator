@@ -2,7 +2,7 @@
 
 A web-based application for generating and managing GST-compliant invoices for small businesses.
 
-## roject Status
+## Project Status
 
 In Development
 
